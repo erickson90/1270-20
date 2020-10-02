@@ -1,1 +1,1 @@
-print("Hello from the new side!")
+print("Hello from Binder!")
